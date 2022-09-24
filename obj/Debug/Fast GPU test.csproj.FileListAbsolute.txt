@@ -1,0 +1,38 @@
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\Fast GPU test.exe.config
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\Fast GPU test.exe
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\Fast GPU test.pdb
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\SharpGL.dll
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\SharpGL.WinForms.dll
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\SharpGL.pdb
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\SharpGL.xml
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\user\source\repos\Fast GPU test\bin\Debug\SharpGL.WinForms.xml
+C:\Users\user\source\repos\Fast GPU test\obj\Debug\Fast GPU test.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Fast GPU test\obj\Debug\Fast_GPU_test.Form1.resources
+C:\Users\user\source\repos\Fast GPU test\obj\Debug\Fast_GPU_test.Properties.Resources.resources
+C:\Users\user\source\repos\Fast GPU test\obj\Debug\Fast GPU test.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Fast GPU test\obj\Debug\Fast GPU test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Fast GPU test\obj\Debug\Fast GPU test.csproj.CopyComplete
+C:\Users\user\source\repos\Fast GPU test\obj\Debug\Fast GPU test.exe
+C:\Users\user\source\repos\Fast GPU test\obj\Debug\Fast GPU test.pdb
+C:\Users\user\Desktop\Fast GPU test\bin\Debug\Fast GPU test.exe.config
+C:\Users\user\Desktop\Fast GPU test\bin\Debug\Fast GPU test.exe
+C:\Users\user\Desktop\Fast GPU test\bin\Debug\Fast GPU test.pdb
+C:\Users\user\Desktop\Fast GPU test\bin\Debug\SharpGL.pdb
+C:\Users\user\Desktop\Fast GPU test\bin\Debug\SharpGL.xml
+C:\Users\user\Desktop\Fast GPU test\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\user\Desktop\Fast GPU test\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\user\Desktop\Fast GPU test\bin\Debug\SharpGL.WinForms.pdb
+C:\Users\user\Desktop\Fast GPU test\bin\Debug\SharpGL.WinForms.xml
+C:\Users\user\Desktop\Fast GPU test\obj\Debug\Fast GPU test.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Fast GPU test\obj\Debug\Fast GPU test.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Fast GPU test\obj\Debug\Fast_GPU_test.Form1.resources
+C:\Users\user\Desktop\Fast GPU test\obj\Debug\Fast_GPU_test.Properties.Resources.resources
+C:\Users\user\Desktop\Fast GPU test\obj\Debug\Fast GPU test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Fast GPU test\obj\Debug\Fast GPU test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fast GPU test\obj\Debug\Fast GPU test.csproj.CopyComplete
+C:\Users\user\Desktop\Fast GPU test\obj\Debug\Fast GPU test.exe
+C:\Users\user\Desktop\Fast GPU test\obj\Debug\Fast GPU test.pdb
